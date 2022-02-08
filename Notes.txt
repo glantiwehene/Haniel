@@ -1,0 +1,30 @@
+CSS -> Cascading Stylesheet
+used to make web layout/style the document
+version -> css3
+
+Types 
+1> Internal css : comes within the <head></head>tag
+   basic syntax
+     <style>
+       selector{
+        property1:value1;
+        property2:value2;
+        ..............
+        }
+        </style>
+2> External Css
+   it is completely the new page for styling the document
+   file extension is dot css(.css)
+   i> basic syntax
+      selector{
+        property:value;
+        }
+    ii> to link with html page do this in the .html file page inside
+        <head> </head> tag
+      <link rel="stylesheet" type="text/css" href="filename.css>
+3> Inline css
+   It is written within the tag of an elements
+   example:
+    <h1 style="property:value;">....</h1>
+      <p style="property:value,">....</p>
+

@@ -1,0 +1,13 @@
+Shorthand properties of margin
+
+Margin: 15px 10px 20px 8px;
+        top  right bottom left
+
+Margin: 15px 10px       20px;
+         top right/left bottom
+
+Margin: 15px        10px;
+        Top/bottom  Right/Left
+
+Margin: 10px;
+        Top/bottom/right/left
